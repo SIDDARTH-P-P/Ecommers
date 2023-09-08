@@ -67,3 +67,8 @@
 .img:hover{
     transform: scale(1.05);
 } */
+.back{
+    background: url(../images/sectin_bg1.png.webp) no-repeat;
+    background-size:contain;
+    min-height:700px;
+}
